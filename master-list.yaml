@@ -1,0 +1,506 @@
+# A __ year old male/female presents to the ____  with (symptoms). These began ___ hours/days/weeks ago,
+# and have improved with ___ and worsened with ___. S/he has a medical history of _____.  They take
+# (medications.)  Physical examination reveals (vital signs) (physical examination) (laboratory values)
+# Based on your findings, you diagnose/prescribe/order/treat....(five answers to choose from)
+
+# 1. The natural history of the disease (etiology, epidemiology, pathology and pathophysiology)
+#    and the prognosis if the condition is left untreated.
+# 2. The typical clinical presentation of the specific disorder.  What signs or symptoms should you expect?
+# 3. The clinical or diagnostic tests to necessary confirm the diagnosis of the condition, including history,
+#    physical examination, laboratory testing and relevant radiological procedures.  What tests should you
+#    order to narrow down the diagnosis?  Is there a pathognomonic result?
+# 4. The appropriate treatment of the condition including relevant medical, surgical, pharmaceutical and
+#    osteopathic manipulative procedures. What do you do first to start the patient back to health?
+# 5. Methods for monitoring the treatment or management of the patient and the long-term complications of
+#    the disorder. How do you manage this chronic condition?  What bad things happen with the progression of
+#    the condition, or if left untreated?
+# 6. The principles of health promotion and disease prevention related to the disease or disorder, including
+#    risk factor identification.  How would you prevent this condition?  Is there a way to survey for it and spot it early?
+#
+# 1 Natural History
+# 2 Clinical Presentation
+# 3 Tests
+# 4 Treatment
+# 5 Management
+# 6 Prevention
+Natural History:
+Clinical Presentation:
+Tests:
+Treatment:
+Management:
+Prevention:
+
+
+
+- Structures:
+    - Bone:
+        - Congenital Disorders of Bone:
+            - Spina bifida (1-6):
+            - Metatarsus adductus (1-3):
+            - Tibial Torsion (1-3):
+            - Congenital Scoliosis (1-5):
+            - Pes Planus (1-4):
+            - Cleidocranial dysostosis (1):
+            - Congenital limb deficiencies (1):
+            - Sprengel Deformity (1):
+        - Infectious disease of bone:
+            - Osteomyelitis (1-6):
+            - Tuberculous osteomyelitis (1):
+        - Bone disorders of multifactorial etiology:
+            - Developmental dysplasia of the hip (1-4):
+            - Femoral torsion (1-3):
+            - Talipes equinovarus (1-3):
+            - Genu varum (1):
+            - Genu Valgus (1):
+        - Vascular disorders of bone:
+            - Legg-Calve-Perthe disease (1-6):
+            - Osteochondritis dessicans (1-6):
+            - Osgood-Schlatter disease (1-4):
+            - Osteonecrosis 1-5:
+        - Metabolic bone diseases:
+            - Osteoporosis (1-6):
+            - Osteopetrosis (1-2):
+            - Osteomalacia/ Rickets (1-6):
+            - Paget’s disease (1-3):
+            - Osteogenesis imperfecta (1-3):
+        - Neoplastic diseases of bone:
+            - Benign:
+                - Benign bone tumors (1-3):
+                - Benign cartilage tumors (1-3):
+                - Benign fibrous tumors (1-3):
+            - Malignant:
+                - Malignant bone tumors (1-3):
+                    - Osteosarcoma (1-3):
+                - Malignant cartilage tumors (1-3):
+                - Malignant fibrous tumors (1-3):
+                - Metastatic bone disease (1-3):
+                - Ewing sarcoma and PNETS (1-3):
+            - Giant cell tumors (1-3):
+        - Traumatic disorders of bone:
+            - Bone Fractures (1-4):
+            - Bone amputations (1):
+    - Connective Tissue:
+        - Autoimmune diseases of connective tissue:
+            - Systemic Lupus Erythematosus (1-6):
+                Natural History: |
+                    Systemic Lupus Erythematosus is a chronic multisystem disease of autoimmune origin. 
+                    The damage to body tissues is mediated through numerous autoantibodies and immune complexes. 
+
+                    Prevalence of 15-50 / 100,000 in US.  Incidence of 1.8-7.6 / 100,000 per year.
+                    Females more than males 9-1.  1 in 700 women of childbearing age, 1 in 245 for
+                    African-American women.
+
+                    Caused by a failure of self-tolerance.  Principally affects skin, kidneys, joints,
+                    and serosal membranes, but many others as well.  Many antibodies, including
+                    antinuclear antibodies, anti-dsDNA, ati-Sm, anti-RNP, anti-Ro (SS-A), anti-La (SS-B),
+                    antihistones, antiphospholipids, antierythrocyte, antiplatelet, antineuronal, and 
+                    antiribosomal P.  Numerous HLA DR/DQ genetic susceptibility traits.  Triggers
+                    include infectious agents causing hyperactivity in the immune system as well as
+                    numerous drugs including hydralazine, procainamide, isoniazid, and D-penicillamine.
+                    SLE patients tend to have elevated titers to Epstein-Barr.
+                Clinical Presentation: >
+                    Acute or insidious, chronic, remitting and relapsing.  Often presents as a butterfly
+                    rash in a young woman accompanied by fever, joint pain, pleuritic pain, and
+                    photosensitivity, but may also include protean, neurological, renal, and cardiac
+                    complaints.
+                Tests: |
+                    Immunofluorescence testing for ANA antibodies, double stranded DNA antibodies,
+                    or Smith antibodies Sm, SS-A, and SS-B.
+
+                    ACR diagnostic criteria includes 4 or more of;
+                        Malar rash
+                        Discoid rash
+                        Photosensitivity
+                        Oral ulcers
+                        Arthritis (intermittent polyarthritis)
+                        Serositis (pleuritis, pericarditis)
+                        Renal disorders (proteinuria)
+                        Neurologic disorders (seizures or psychosis)
+                        Hematologic disorder (hemolytic anemia, leukopenia)
+                        Immunologic disorder (Anti-ds DNA, snit-Sm, antiphospholipid)
+                        Antinuclear antibody
+                Treatment:
+                    For non-life-threatening presentations, use of analgesics and antimalarials to 
+                    suppress symptoms.  For more serious presentations, systemic glucocorticoids
+                    and cytotoxic drugs.
+                Management:
+                    Rarely may progress to death within weeks.  Typically characterized by flares
+                    and remissions.  Death most commonly caused by renal failure and intercurrent
+                    infections.  Pregnancy risks include increased fetal loss, and glucocorticoid
+                    use is recommended to suppress disease activity during pregnancy.
+                Prevention:
+                    Appropriate vaccines?  Control osteoporosis (glucocorticoids), control 
+                    hypertension and atherosclerosis.
+            - Erythema nodosum (1-3):
+                Natural History: >
+                    Incidence is 0.02-0.03 / 1000 patients / year.  Associated with infections such as
+                    beta-hemolytic strep and TB, also with drugs such as sulfonamides and oral
+                    contraceptives, also with sarcoidosis and IBS.  Panniculitis is an inflammatory 
+                    reaction in the subcutaneous fat and fascia. Erythema nodosum (EN), the most 
+                    common form of panniculitis, is an acute onset of a tender nodular, erythematous 
+                    eruption that usually is limited to the extensor aspects of the lower legs. 
+                Clinical Presentation: >
+                    Poorly defined, tender erythematous plaques and nodules, typically in the LE.
+                    Lesions are erythematous and edematous with neutrophilic infiltration.
+                Tests: Biopsy
+            - Systemic Sclerosis (1-3):
+                Natural History: |
+                    Rare.  Systemic sclerosis is a rare, multisystem, chronic disorder of unknown cause 
+                    (most likely autoimmune in nature) , characterized by excessive tissue fibrosis, 
+                    small blood vessel vasculopathy and autoimmunity. Tissue thickening is especially
+                    prominent in the dermis resulting in thickening skin.
+
+                    67m and 265f per 100,000 per year (3-1 ratio).  Peak incidence 50-60 years of age.
+                    Unknown triggering agent, abnormal CD4+ T-cells and Th2, growth factors, cytokines,
+                    T-cell mediated fibrogenesis and vascular injury.  Abnormal humor response, ANAs
+                    detectable in most patients.  Skin most commonly affected, but others include GI,
+                    renal, heart, skeletal muscle, and lungs.  Microvascular disease occurs early,
+                    as inital event involving endothelial cell damage and release of platelet factors
+                    stimulating periadventitial fibrosis.  Subsequent vasoconstriction and tissue
+                    ischemia.
+
+                    Two classifications; diffuse and limited.  Diffuse characterized by widespread
+                    skin involvement and rapid progression to include visceral organs.  Limited is
+                    usually confined to fingers, forearms, and face.   CREST; Calcinosis, Raynaud,
+                    Esophageal dysmotility, Sclerodactyly, Telangiectasia.
+
+                    Antibodies for platelet-derived growth factor found in all patients with systemic
+                    sclerosis.
+                Clinical Presentation: >
+                    Insidious.  Often starts with Raynaud's and puffy fingers, progressing to swollen
+                    fingers and hands, then taut, firm, hard, and thickened skin.  Swelling and stiffness
+                    in joints and joint pain.  Thickening of tendon sheaths, loss of motion, crepitation.
+                    GI involvement, esophagus dysmotility.  Malignant hypertension leading to renal 
+                    failure.  Pulmonary fibrosis.  Death.
+                Tests: >
+                    Elevated ESR.  Rheumatoid factor in 25 percent.  Autoantibodies include ANA (95%),
+                    anticentromere (22-36% limited), anti-scl 70 (DNA topoisomerase) (28-70, diffuse),
+                    anti-RNA polymerase I, II, III, anti-Th RNP, anti-U1 RNP, anti-U3 RNP, anti-PM/Scl.
+                    X-rays show destructive changes in the joints, soft tissue calcification, and
+                    resorption of periarticular bone.
+        - Idiopathic Diseases of Connective Tissue:
+            - Fibromyalgia (1-6):
+            - Polymyalgia Rheumatica (1-3):
+            - Sarcoidosis (1-4):
+            - Amyloidosis (1-3):
+        - Inflammatory Diseases of Connective Tissue:
+            - Synovial Sheaths and Capusules:
+                - Adhesive Capusulitis (1-4):
+                - Bursitis (1-4):
+                - Epicondylitis (1-4):
+                - Tendonitis (1-4):
+                - Tenosynovitis (1-4):
+            - Vasculidities:
+                - Giant cell arteritis (1-6):
+                - Microscopic polyangitis (1-3):
+                - Polyarteritis nodosa (1-3):
+                - Takayasu arteritis (1-3):
+                - Wegeners granulomatosis (1-4):
+        - Regional traumatic and other disorders of connective tissue (1-4):
+            - Disorders of the foot (1-4):
+                - Plantar fasciitis (1-4):
+                - Pes planus (1-4):
+                - Bunions (1-4):
+                - Heel spur (1-4):
+                - Compartment Syndrome (1-4):
+                - Metatarsal Head (Frieberg disease) (1-4):
+                - Tarsal Navicular (Kohler disease) (1-4):
+                - Calcaneal Apophysis (Sever Disease) (1-4):
+                - Pronation dysfunction (1-4):
+                - Haglund deformity (1-4):
+                - Achilles tendonitis (1-4):
+                - Subcalcaneal and calcaneal bursitis (1-4):
+                - Cavous deformity (1-4):
+                - Dorsal Tendonitis (1-4):
+                - Tarsal bone coalition (1-4):
+                - Accessory navicular (1-4):
+                - Lisfranc fracture (1-4):
+                - Cuboid syndrome (1-4):
+                - Forefoot (1-4 for all):
+                    - Metatarsus adductus:
+                    - Hallux valgus:
+                    - Hallux rigidus:
+                    - Turf Toe:
+                    - Morton neuroma:
+                    - Ingrown toenail:
+                    - Sesamoid bones:
+                    - Corns, calluses, blisters:
+                    - Onychomycosis:
+                    - Plantar warts:
+                    - Toe fractures:
+                    - Tinea pedis:
+                    - Candidiasis:
+                    - Dishydrosis:
+                    - Bromhydrosis:
+                    - Eczema:
+                    - March fracture:
+                    - Friberg infraction:
+                    - Morton foot:
+                    - Calcaneal fracture:
+                - Stress fracture (1-4):
+                - Athlete’s foot (1-4):
+                - Pes planus (1-4):
+                - Diabetic foot:
+                    - Neuropathy (1-4):
+                    - Charcot joint (1-4):
+                    - Ulcer evaluation (1-4):
+            - Disorders of the ankle:
+                - Sprain (1-4):
+                - Fractures (1-4):
+            - Disorders of the knee:
+                - Sprain (1-4):
+                - Ligamentous tear:
+                    - ACL (1-4):
+                    - PCL (1-4):
+                    - Collateral (1-4):
+                - Bursitis (1-4):
+                - Tendonitis (1-4):
+                - Patellofemoral syndrome (1-4):
+            - Disorders of the hip (1-4):
+                - Hip dislocation (1-4):
+                - Femoral neck fracture (1-4):
+                - Trochanteric bursitis (1-4):
+                - Hip synovitis (1-4):
+                - Congenital hip dysplasia (1-4):
+                - Legg-Calves-Perthes disease (1-6):
+                - Slipped capital femoral epiphysis (1-4):
+            - Disorders of the back:
+                - Lumbar degenerative disc disease (1-4):
+                - Facet joint capsule hypertrophy (1-4):
+                - Osteophyte formation (1-4):
+                - Spinal stenosis (1-4):
+                - Spondylosis (1-4):
+                - Spondylolisthesis (1-4):
+                - Lumbar radiculopathy (1-4):
+                - Cauda equina syndrome (1-4):
+            - Disorders of the neck:
+                - Cervical degenerative disc disease:
+                - Traumatic injury of the head and neck (1-4):
+                - Cervical radiculopathy (1-4):
+                - Cervical myelopathy:
+            - Disorders of the shoulder:
+                - Bicipital tendonitis (1-4):
+                - Acromioclavicular separation (1-4):
+                - Dislocation (1-4):
+                - Adhesive capsulitis (frozen shoulder) (1-4):
+                - Rotator cuff (1-4):
+                    - Tear:
+                    - Strain:
+                    - Impingement:
+                - Fractures (1-4):
+                    - Scapular:
+                    - Clavicular:
+            - Disorders of the arm:
+                - Ulnar fracture (1-4):
+                - Radius fracture (1-4):
+                - Humeral fracture (1-4):
+                - Disorder of the elbow:
+                    - Nursemaid's elbow (1-4):
+                    - Bursitis (1-4):
+                    - Tennis elbow (1-4):
+                    - Golfer's elbow  (1-4):
+                - Disorder of the wrist and hand:
+                    - De Quervains tenosynovitis (1-4):
+                    - Carpal tunnel syndrome  (1-6):
+                    - Fractures:
+                        - Scaphoid fracture (1-4):
+                        - Distal radius fracture (1-4):
+                        - Metacarpal and phalanges fracture (1-4):
+                    - Miscellaneous:
+                        - Nail bed injury (1-4):
+                        - Mallet finger (1-4):
+                        - Boutonniere deformity (1-4):
+                        - Flexor tendon disruptions (1-4):
+                    - Infection:
+                        - Flexor tendon sheath infection (1-4):
+                        - Hand infection (1-4):
+                        - Fingertip infection:
+                            - Felon (1-4):
+                            - Paronychia (1-4):
+                            - (iv.) Animal and human bites  (1-4):
+                            - Kanavel’s sign:
+                    - Other:
+                        - Trigger finger (1-4):
+                        - Dupuytren Disease (1-4):
+            - Neoplastic diseases of connective tissue:
+                - Benign fibrous histiocytoma (1-2):
+                - Fibromatosis (1-2):
+                - Fibrosarcoma (1-3):
+                - Lipoma (1-3):
+                - Liposarcoma (1-3):
+                - Malignant Fibrous Histiocytoma (1-2):
+                    - Myositis Ossificans (1-3):
+    - Muscle:
+        - Inflammatory disease of muscle:
+            - Dermatomyositis (1-3):
+                Natural History: >
+                    5.5 per million people. Dermatomyositis (DM) is a chronic inflammatory myopathy similar to 
+                    polymyositis (PM). DM can be separated from PM in that the later also involves dermatologic 
+                    manifestations.
+                Clinical Presentation: >
+                    Heliotrophic rash in upper eyelids and periorbital edema, but rash can occur on back, neck, 
+                    or chest and may be photosensitive.  Grotton lesions.  Bilaterally symmetrical muscle weakness,
+                    proximal greater than distal but progressing distally and may be accompanied by myalgias.
+                    Associated symptoms include lung disease, vasculitis, and myocarditis.
+                Tests: >
+                    X-rays for soft tissue calcification and swelling about joints.  MRI for inflammatory
+                    changes in muscle.  EMG and muscle biopsy.  Lab studies include serum creatine phosphokinase 
+                    (CPK), serum aldolase (ALD), serum lactate dehydrogenase (LDH), serum glutamic oxalacetic 
+                    transaminase (SGOT), serum glutamic pyruvic transaminase (SGPT), rheumatoid factor and ANA 
+                    antibodies are present in half the cases, anti-Jo1 (more specific for polymyositis than
+                    dermatomyositis), antipMi-2 antibodies, antisignal recognition protein (anti-SRP),
+            - Polymyositis  (1-3):
+                Natural History: >
+                    0.5 to 8.4 per million.  Autoimmune process, possibly related to viral illness or drug use.
+                    Polymyositis, or idiopathic inflammatory myopathy, is a subacute inflammatory disease of 
+                    skeletal muscle (myopathy).
+                Clinical Presentation: >
+                    No rash, unlike DM. Muscular manifestions include symmetrical weakness proximal > distal,
+                    weakness of neck flexors, myalgias, dysphagia and dysphonia, rarely facial and bulbar 
+                    muscle weakness.  Constitutional manifestations include morning stiffness, fatigue,
+                    anorexia, weight loss, fever.  Other manifestations include pulmonary diseases,
+                    cardiac arrythmias, joint pain, acute renal tubular necrosis, and mechanic's hands
+                    (thickening of the skin).
+                Tests: >
+                    Serum creatine kinase, lactic dehydrogenase, alanine aminotransferase, aldolase, CBC showing
+                    leukocytosis or thrombocytosis, ESR elevated, ANA positive in one third of patients, anti-Jo-1, 
+                    antisignal recognition particles ASRP, MRI scans when appropriate, EMG studies, muscle biopsy.
+        - Neoplastic disease of muscle:
+            - Leiomyoma (1-2):
+                Natural History: > 
+                    Most common neoplasm for women.  AKA uterine fibroids, these are tumors of smooth muscle.
+                    Development of multilesion form is hereditary.  Commonly in uterus.  Forms during adolescence
+                    and early adulthood.
+                Clinical Presentation: >
+                    Depends on location.  Nonpainful lump, but pain may result from compression of surrounding tissue.
+            - Leiomyosarcoma  (1-2):
+                Natural History: >
+                    10-20% of soft tissue sarcomas.  These are malignant tumors of smooth muscle, occuring in adults,
+                    women > men.  Most develop in retroperitoneal or intraabdominal sites, other common places 
+                    include skin and deep soft tissue of extremities (typically associated with veins) however they 
+                    can be found anywhere and may become quite large.
+                Clinical Presentation: >
+                    Painless firm masses, mass effect on surrounding tissue may occur when located in the 
+                    retroperitoneum.
+            - Rhabdomyosarcoma (1-2):
+                Natural History: >
+                    Most common soft tissue sarcoma of childhood and adolescence.  6 per million (250 cases) in
+                    children <15.  Presents before 20yo.  Arise most often in head, neck, and GU tract, as well as
+                    skeletal muscle of extremities.  PAK3-FKHR gene fusion dysregulating muscle differentiation.
+                    Three types include embryonal (most common), alveolar, and pleomorphic.  These are aggressive
+                    tumors that require treatment.
+                Clinical Presentation: >
+                    Mass expanding lesion, specific signs and symptoms depend on the location of the tumor
+
+- Processes:
+    - Inflammatory Diseases:
+        - Rheumatoid Arthritis (1-6):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+            Management:
+            Prevention:
+        - Juvenile Idiopathic (Rheumatoid) Arthritis (1-6):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+            Management:
+            Prevention:
+        - Reactive Arthritis (1-4):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+        - Arthritis of Inflammatory Bowel Disease (1-4):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+        - Ankylosing Spondylitis (1-3):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+        - Psoriatic Arthritis (1-4):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+        - Sjogren Syndrome (1-2):
+            Natural History:
+            Clinical Presentation:
+        - Felty Syndrome (1-2):
+            Natural History:
+            Clinical Presentation:
+    - Infectious Diseases:
+        - Lyme Disease  (1-6):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+            Management:
+            Prevention:
+        - Non-gonococcal Bacterial Arthritis (1-6):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+            Management:
+            Prevention:
+        - Gonococcal Arthritis (1-2):
+            Natural History:
+            Clinical Presentation:
+        - Tuburculosis Arthritis (1-2):
+            Natural History:
+            Clinical Presentation:
+        - Viral Arthritis  (1-2):
+            Natural History:
+            Clinical Presentation:
+    - Metabolic Diseases:
+        - Gout:
+            - Monosodium Urate Gout (1-6):
+                Natural History:
+                Clinical Presentation:
+                Tests:
+                Treatment:
+                Management:
+                Prevention:
+            - Pseudogout (1-3):
+                Natural History:
+                Clinical Presentation:
+                Tests:
+        - Hydroxyapatite arthritis (1-3):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+        - Hemochromatosis (1-4):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+    - Neoplastic Diseases:
+        - Ganglion cysts (1):
+            Natural History:
+        - Villonodular Synovitis (1):
+            Natural History:
+    - Degenerative Diseases:
+        - Osteoarthritis (1-6):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+            Management:
+            Prevention:
+        - Degenerative Disc Disease (1-4):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+            Treatment:
+        - Facet Joint Syndrome (1-3):
+            Natural History:
+            Clinical Presentation:
+            Tests:
+        - Neuropathic Joints (1):
+            Natural History:
+
