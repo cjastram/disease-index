@@ -23,12 +23,12 @@
 # 4 Treatment
 # 5 Management
 # 6 Prevention
-Natural History:
-Clinical Presentation:
-Tests:
-Treatment:
-Management:
-Prevention:
+#Natural History:
+#Clinical Presentation:
+#Tests:
+#Treatment:
+#Management:
+#Prevention:
 
 
 
@@ -82,6 +82,11 @@ Prevention:
     - Connective Tissue:
         - Autoimmune diseases of connective tissue:
             - Systemic Lupus Erythematosus (1-6):
+                age: 15-45
+                gender-ratio: 1-9
+                onset: acute, chronic, remitting and relapsing
+                presentation: a butterfly rash, fever, joint pain, pleuritic pain, photosensitivity
+                labs: immunofluorescence test for ANA antibodies, dsDNA antibody test, Smith antibodies Sm SS-A and SS-B
                 Natural History: |
                     Systemic Lupus Erythematosus is a chronic multisystem disease of autoimmune origin. 
                     The damage to body tissues is mediated through numerous autoantibodies and immune complexes. 
