@@ -1,0 +1,143 @@
+# A __ year old male/female presents to the ____  with (symptoms). These began ___ hours/days/weeks ago,
+# and have improved with ___ and worsened with ___. S/he has a medical history of _____.  They take
+# (medications.)  Physical examination reveals (vital signs) (physical examination) (laboratory values)
+# Based on your findings, you diagnose/prescribe/order/treat....(five answers to choose from)
+
+# 1. The natural history of the disease (etiology, epidemiology, pathology and pathophysiology)
+#    and the prognosis if the condition is left untreated.
+# 2. The typical clinical presentation of the specific disorder.  What signs or symptoms should you expect?
+# 3. The clinical or diagnostic tests to necessary confirm the diagnosis of the condition, including history,
+#    physical examination, laboratory testing and relevant radiological procedures.  What tests should you
+#    order to narrow down the diagnosis?  Is there a pathognomonic result?
+# 4. The appropriate treatment of the condition including relevant medical, surgical, pharmaceutical and
+#    osteopathic manipulative procedures. What do you do first to start the patient back to health?
+# 5. Methods for monitoring the treatment or management of the patient and the long-term complications of
+#    the disorder. How do you manage this chronic condition?  What bad things happen with the progression of
+#    the condition, or if left untreated?
+# 6. The principles of health promotion and disease prevention related to the disease or disorder, including
+#    risk factor identification.  How would you prevent this condition?  Is there a way to survey for it and spot it early?
+#
+# 1 Natural History
+# 2 Clinical Presentation
+# 3 Tests
+# 4 Treatment
+# 5 Management
+# 6 Prevention
+#Natural History:
+#Clinical Presentation:
+#Tests:
+#Treatment:
+#Management:
+#Prevention:
+
+
+
+- Depressive Disorders:
+
+    - Major Depressive Disorder (1-6):
+        Natural History:
+        Clinical Presentation:
+        Tests:
+        Treatment: 
+        Management: 
+        Prevention:
+    - Persistent Depressive Disorder (1-3):
+    - Depressive Disorder due to another medical condition   :
+    - Disruptive mood dysregulation disorder (1):
+    - Premenstrual dysphoric disorder (1):
+    - Substance/medication induced Depressive Disorder:
+
+- Bipolar and related disorders:
+
+    - Bipolar Disorder I (1-6):
+    - Bipolar Disorder II (1-6):
+    - Cyclothymic Disorder (1-3):
+
+- Schizophrenia Spectrum and Other Psychotic Disorders:
+
+    - Schizophrenia (1-4):
+    - Schizophreniform Disorder (1-2):
+    - Brief Psychotic Disorder (1-2):
+    - Schizoaffective Disorder (1-4):
+    - Delusional Disorder (1-3):
+    - Substance/Medication induces psychotic disorder:
+    - Psychotic Disorder Due to Another Medical Condition:
+    - Other Specified Schizophrenia Spectrum and Other Psychotic Disorder:
+    - Unspecified Schizophrenia Spectrum and Other Psychotic Disorder:
+
+- Anxiety Disorders:
+
+    - Separation Anxiety Disorder:
+    - Selective Mutism:
+    - Specific Phobia (1-4):
+    - Social Phobia (1-4):
+    - Panic Disorder (1-5):
+    - Generalized Anxiety Disorder (1-5):
+    - Anxiety due to Substance/medication Related Issue:
+
+- Obsessive-Compulsive and Related Disorders:
+
+    - Obsessive-Compulsive Disorder (1-6):
+    - Body Dysmorphic Disorder:
+    - Hoarding Disorder:
+    - Trichotillomania:
+    - Excoriation Disorder:
+    - Obsessive-Compulsive or other related disorder due to another medical condition or substance-induced:
+
+- Trauma and Stressor-Related Disorders:
+
+    - Reactive attachment disorder :
+    - Disinhibited social engagement disorder :
+    - Posttraumatic stress disorder (1-6):
+    - Acute stress disorder :
+    - Adjustment disorder (with several specifiers) :
+    - Other/Unspecified trauma and stressor-related disorders :
+
+- Personality Disorders (1-6):
+    - Cluster A:
+        - Paranoid:
+        - Schizoid:
+        - Schizotypal :
+    - Cluster B:
+        - Antisocial:
+        - Borderline:
+        - Narcissistic:
+        - Histrionic:
+    - Cluster C:
+        - Dependent:
+        - Aviodant:
+        - Obsessive-compulsive:
+
+- Feeding and Eating Disorders:
+
+    - Anorexia Nervosa (1-5):
+    - Binge Eating Disorder (1-5):
+    - Bulimia Nervosa (1-6):
+
+- Somatic Symptom and Related Disorders (1-4):
+
+    - Somatic Symptom Disorder:
+    - Conversion Disorder:
+    - Hypochondriasis:
+    - Malingering:
+    - Factitious Disorder:
+        - Munchausen:
+        - Munchausen syndrome by Proxy:
+        - Ganser Syndrome:
+
+- Substance Abuse Disorder (1-6):
+
+- Sleep Disorders:
+    - Insomnias (1-4):
+    - Parasomnias (1-4):
+    - Somnambulism:
+        - Sleep Terrors:
+        - Nightmares:
+        - REM sleep behavior disorder:
+        - Sleep-related leg cramps:
+
+- Neurodevelopmental Disorders:
+    - Attention Deficit/Hyperactivity Disorder (1-5):
+    - Autism Spectrum Disorder (1-3):
+
+

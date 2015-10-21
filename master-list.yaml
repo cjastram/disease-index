@@ -36,13 +36,58 @@
     - Bone:
         - Congenital Disorders of Bone:
             - Spina bifida (1-6):
+                Natural History: |
+                    "Neural tube defect" or "dysraphism", 1 in 4000 live births.
+                    Typically lumbar in location but can occur at other levels.  4 forms.
+
+                    Spina bifida occulta -  Defect in closure of the posterior elements
+                    Meningocele - Meningeal layers herniate through the posterior arch defect
+                    Myelomeningocele - Spinal cord herniates into the meningocele and is damaged
+                    Myeloschesis - Meningocele is open exposing the spinal cord to external environment
+                Clinical Presentation: |
+                    Spina bifida occulta - can be asymptomatic, most lack neuro signs, patches of hair
+                    or dermoid cysts can be present.
+
+                    Meningocele - asymptomatic or involves significant cord or root damage.
+
+                    Myelomeningocele - Severe neuro damage involve cord and roots, LE, bladder and 
+                    bowel involvement.
+
+                    Myeloscheseis - Complete destruction of spinal cord.
+                Tests: Neuro exam, CT/MRI of spine and head
+                Treatment: ?
+                Management: ?
+                Prevention: Folic acid
             - Metatarsus adductus (1-3):
+                Natural History:
+                    Common congenital defect of LE.  One out of 1-2k.  M=F, bilateral in 50%.
+                    Risk factors may include oligohydramnios.  May be accompanied by acetabular dysplasia.
+                Clinical Presentation: |
+                    No symptoms during pregnancy.  Adducted forefoot, can supinate.  Lateral border
+                    of foot convexed.  Great toe and second toe spread, hindfoot neutral or valgus
+                    but not varus, normal ankle dorsiflexion.
+                Tests: P/E?
             - Tibial Torsion (1-3):
+                Natural History:
+                Clinical Presentation:
+                Tests:
             - Congenital Scoliosis (1-5):
+                Natural History:
+                Clinical Presentation:
+                Tests:
+                Treatment:
+                Management:
             - Pes Planus (1-4):
+                Natural History:
+                Clinical Presentation:
+                Tests:
+                Treatment:
             - Cleidocranial dysostosis (1):
+                Natural History:
             - Congenital limb deficiencies (1):
+                Natural History:
             - Sprengel Deformity (1):
+                Natural History:
         - Infectious disease of bone:
             - Osteomyelitis (1-6):
             - Tuberculous osteomyelitis (1):
@@ -576,6 +621,7 @@
                 - Ulnar fracture (1-4):
                 - Radius fracture (1-4):
                 - Humeral fracture (1-4):
+                    Proximal fracture - Adhesive capsulitis almost always?
                 - Disorder of the elbow:
                     - Nursemaid's elbow (1-4):
                     - Bursitis (1-4):
@@ -606,12 +652,63 @@
                         - Dupuytren Disease (1-4):
             - Neoplastic diseases of connective tissue:
                 - Benign fibrous histiocytoma (1-2):
+                    image: http://mddk.com/wp-content/uploads/2014/07/dermatofibroma-3.jpg
+                    Natural History: Dermatofibroma.  Common lesion in dermis and subdermis.  Mid-adult most common.
+                    Clinical Presentation: Small firm nodule in the dermis or subcutis.
                 - Fibromatosis (1-2):
+                    image: http://www.physio-pedia.com/images/thumb/2/28/Cord.jpg/400px-Cord.jpg
+                    Natural History: >
+                        Benign proliferation of fibroblasts followed by collagen deposition thickening 
+                        surrounding connective tissue.  Superficial and deep forms of fibromatosis exist. 
+                        Several forms of superficial fibromatosis are recognized, including: palmar 
+                        fibromatosis (Dupuytren’s contracture), plantar fibromatosis, and penile 
+                        fibromatosis (Peyronie’s disease). Note that a deep-seated fibromatosis is termed 
+                        a “desmoid tumor” and is separate entity from the superficial fibromatoses.
+
+                        1-20 per 1000 of Dupuytren's Contracture.  M>F 5-1 mainly Caucasions.
+                        Irregular nodular thickening of facia.  Variable progression.  Initially
+                        5th digit then spreading to other digits.
+                    Clinical Presentation: |
+                        Slow, progressive contracture of palmar fascia, cord-like thickened bands developing
+                        over palmar fascia, dimpling or puckering of the overlying skin.
                 - Fibrosarcoma (1-3):
+                    Natural History: >
+                        Rare but aggressive soft-tissue tumor.  Rare, 500 per year.  Usually in
+                        retroperitoneum, thigh, knee, or distal extremity (50%).  30-55yo most common.
+                        Characterized by immature proliferating fibroblasts with bundles of collagenous
+                        fibers.  Can metastasize.
+                    Clinical Presentation: No characteristic clinical findings.
+                    Tests: Biopsy
                 - Lipoma (1-3):
+                    Natural History: |
+                        Benign tumors of fat.  Most common soft tissue tumor of adulthood.
+                        Can present anywhere in the body.  When deep in mediastinum or retroperitoneum,
+                        can reach massive sizes.
+                    Clinical Presentation: Soft, mobile, painless mass.  Mass effect when deep seated.
+                    Tests: Biopsy.
                 - Liposarcoma (1-3):
+                    Natural History: |
+                        Sarcoma of adipose tissue, one of the most common sarcomas of adulthood.  40-60
+                        most common.  Arises in deep soft tissues of retroperitoneum or proximal 
+                        extremities but can occur anywhere.  Benign to agressive based on type.
+                    Clinical Presentation: No characteristic findings.  Painless mass, mass effect.
+                    Tests: Biopsy.
                 - Malignant Fibrous Histiocytoma (1-2):
-                    - Myositis Ossificans (1-3):
+                    Natural History: |
+                        Aggressive malignant form of fibrous histiocytoma.  Peak incidence in 7th decade.
+                        Usually arises in musculature of proximal extremities or in mediastinum.
+                        High recurrence.  Multiple forms including storiform-pleomorphic, myxoid, 
+                        inflammatory, giant cell, and angiomatoid.
+                    Clinical Presentation: Biopsy.
+                - Myositis Ossificans (1-3):
+                    Natural History: |
+                        Fibrotic proliferation and formation of metaplastic bone in skeletal muscle,
+                        usually following a trauma.  Rare.  Typically in young, athletic person following
+                        a traumatic event, typically proximal extremities.
+                    Clinical Presentation: |
+                        Initial pain and swelling in muscle, progressing to painless mass, can calcify
+                        to form a painful mass.
+                    Tests: Radiographic.  X-ray, CT, MRI (if appropriate)
     - Muscle:
         - Inflammatory disease of muscle:
             - Dermatomyositis (1-3):
